@@ -14,8 +14,8 @@ The user inputs Task Title, Task Date, and Task Description. Then the website ta
 
 ## Design
 
-![alt text](myBlog/Assets/Challeng-4ss.png)
-![alt text](myBlog/Assets/Challenge-4ss-2.png)
+![alt text](/Assets/bandicam%202024-09-01%2011-44-35-253.jpg)
+
 
 
 ## Link to finished website
