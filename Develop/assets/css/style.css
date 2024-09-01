@@ -1,0 +1,15 @@
+.task {
+  cursor: move;
+}
+
+.bg-warning {
+  background-color: #fff3cd !important;
+}
+
+.bg-danger {
+  background-color: #f8d7da !important;
+}
+
+.text-white {
+  color: #fff !important;
+}
